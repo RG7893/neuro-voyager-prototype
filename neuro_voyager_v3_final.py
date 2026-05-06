@@ -14,7 +14,7 @@ from datetime import datetime
 WIDTH, HEIGHT = 1280, 720
 FPS = 60
 
-PORT = "COM11"
+PORT = "<Enter the COM port here.>"
 BAUD = 57600
 
 CSV_FILE = "neuro_voyager_eeg_data.csv"
